@@ -1,0 +1,3 @@
+# TestQuestion
+赛盛科技测试题
+这个小项目中主要使用django，实际工作当中djangorestframework使用的比较多，主要开发一些restful风格的接口
